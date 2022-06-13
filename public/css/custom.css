@@ -1,0 +1,54 @@
+.user-name
+{
+	margin-top:20px;
+	padding:0px 30px;
+}
+
+.marquee {
+	 position: relative;
+	 margin: 10px;
+	 padding: 10px;
+	 background-color: #eee;
+	 overflow: hidden;
+}
+ .marquee__inner {
+	 display: inline-block;
+	 animation: marquee__inner 4s linear infinite alternate;
+}
+ .marquee__content {
+	 animation: marquee__content 4s linear infinite alternate;
+	 white-space: nowrap;
+}
+ @keyframes marquee__inner {
+	 0% {
+		 margin-left: 0;
+	}
+	 100% {
+		 margin-left: 100%;
+	}
+}
+ @keyframes marquee__content {
+	 0% {
+		 margin-left: 0;
+	}
+	 100% {
+		 margin-left: -100%;
+	}
+}
+ 
+
+.block-btn-shift
+{
+	width:100%;
+	font-weight:600;
+	font-size:25px;
+	margin-top:5%;
+	padding:8px;
+	border-radius:5px;
+}
+
+.btn-custom
+{
+    background-color:#0e517b;
+    color:#fff;
+}

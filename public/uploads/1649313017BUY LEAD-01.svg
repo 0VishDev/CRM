@@ -1,0 +1,104 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 79 16.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-6 {
+        fill: #070b0d;
+      }
+
+      .cls-7 {
+        fill: #d1b05b;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-9);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-10);
+      }
+
+      .cls-13 {
+        isolation: isolate;
+        font-size: 10px;
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.01807em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="15.62504" y1="56.12501" x2="63.37496" y2="8.37499" gradientTransform="translate(0 -24)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e2b457"/>
+      <stop offset="0.4081" stop-color="#f7f3a8"/>
+      <stop offset="0.7476" stop-color="#e2b457"/>
+      <stop offset="0.952" stop-color="#956628"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="16.747" y1="9.47803" x2="62.3314" y2="55.06252" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="17.21871" y1="54.49374" x2="61.79711" y2="9.91544" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="17.425" y1="54.325" x2="61.5003" y2="10.2497" gradientTransform="translate(0 -24)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdbec0"/>
+      <stop offset="0.4081" stop-color="#ededee"/>
+      <stop offset="0.7476" stop-color="#bdbec0"/>
+      <stop offset="0.952" stop-color="#838587"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="17.72749" y1="10.45916" x2="61.29084" y2="54.02251" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-6" x1="7.0142" y1="34.3142" x2="15.8033" y2="43.1033" gradientTransform="translate(0 -24)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#faf182"/>
+      <stop offset="1" stop-color="#febb1b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="8.7642" y1="32.5642" x2="17.5533" y2="41.3533" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-8" x1="11.03925" y1="30.28925" x2="19.82835" y2="39.07835" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-9" x1="12.71425" y1="28.61425" x2="21.50335" y2="37.40335" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-10" x1="12.8423" y1="30.6625" x2="16.6015" y2="30.6625" xlink:href="#linear-gradient-6"/>
+  </defs>
+  <title>BUY LEAD</title>
+  <rect class="cls-1" width="79" height="16.5"/>
+  <path class="cls-2" d="M78.6,2.8V13.7a2.4334,2.4334,0,0,1-2.4,2.4H2.8A2.4334,2.4334,0,0,1,.4,13.7V2.8A2.4334,2.4334,0,0,1,2.8.4H76.2a2.369,2.369,0,0,1,2.4,2.4Z"/>
+  <path class="cls-3" d="M2.8,1.1H76.2a1.75237,1.75237,0,0,1,1.7,1.7V13.7a1.75238,1.75238,0,0,1-1.7,1.7H2.8a1.75238,1.75238,0,0,1-1.7-1.7V2.8A1.62752,1.62752,0,0,1,2.8,1.1Z"/>
+  <path class="cls-4" d="M77.6,2.8V13.7a1.36707,1.36707,0,0,1-1.4,1.4H2.8a1.36707,1.36707,0,0,1-1.4-1.4V2.8A1.36707,1.36707,0,0,1,2.8,1.4H76.2A1.43017,1.43017,0,0,1,77.6,2.8Z"/>
+  <path class="cls-5" d="M77.2,2.8V13.7a1.00209,1.00209,0,0,1-1,1H2.8a1.00209,1.00209,0,0,1-1-1V2.8a1.00209,1.00209,0,0,1,1-1H76.2A.94477.94477,0,0,1,77.2,2.8Z"/>
+  <path class="cls-6" d="M2.8,1.4A1.36707,1.36707,0,0,0,1.4,2.8V13.7A1.34745,1.34745,0,0,0,2.8,15H28.3V1.4Z"/>
+  <path class="cls-6" d="M28.3,1.4H2.8A1.36707,1.36707,0,0,0,1.4,2.8V13.7a1.38733,1.38733,0,0,0,.7,1.2c0-.2-.1-.4-.1-.6V3.4A1.36707,1.36707,0,0,1,3.4,2H28.3Z"/>
+  <path class="cls-7" d="M7.5,9.8a3.40193,3.40193,0,0,1,1-.1,2.01584,2.01584,0,0,1,1.1.3,1.2345,1.2345,0,0,1,.4.8,1.61294,1.61294,0,0,1-.3.9,1.374,1.374,0,0,1-1.2.4H8.1v1.6H7.5Zm.5,2h.4c.6,0,1-.3,1-.9,0-.5-.4-.8-1-.8H7.9v1.7Z"/>
+  <path class="cls-7" d="M12,12.6l-.4,1.3h-.5l1.4-4h.6l1.4,4h-.6l-.4-1.3Zm1.3-.4L13,11a6.37292,6.37292,0,0,0-.2-.7h0c-.1.2-.1.5-.2.7l-.4,1.2Z"/>
+  <path class="cls-7" d="M16.8,9.8v4h-.5v-4Z"/>
+  <path class="cls-7" d="M18.9,9.9A4.102,4.102,0,0,1,20,9.8a2.20257,2.20257,0,0,1,1.6.5,2.03515,2.03515,0,0,1,.6,1.5,2.45191,2.45191,0,0,1-.6,1.6,2.79194,2.79194,0,0,1-1.8.6h-.9Zm.5,3.5h.5A1.50259,1.50259,0,0,0,21.6,12v-.3a1.45645,1.45645,0,0,0-1.3-1.6H20a1.26834,1.26834,0,0,0-.6.1Z"/>
+  <path class="cls-8" d="M7.5,9.8a3.40193,3.40193,0,0,1,1-.1,2.01584,2.01584,0,0,1,1.1.3,1.2345,1.2345,0,0,1,.4.8,1.61294,1.61294,0,0,1-.3.9,1.374,1.374,0,0,1-1.2.4H8.1v1.6H7.5Zm.5,2h.4c.6,0,1-.3,1-.9,0-.5-.4-.8-1-.8H7.9v1.7Z"/>
+  <path class="cls-9" d="M12,12.6l-.4,1.3h-.5l1.4-4h.6l1.4,4h-.6l-.4-1.3Zm1.3-.4L13,11a6.37292,6.37292,0,0,0-.2-.7h0c-.1.2-.1.5-.2.7l-.4,1.2Z"/>
+  <path class="cls-10" d="M16.8,9.8v4h-.5v-4Z"/>
+  <path class="cls-11" d="M18.9,9.9A4.102,4.102,0,0,1,20,9.8a2.20257,2.20257,0,0,1,1.6.5,2.03515,2.03515,0,0,1,.6,1.5,2.45191,2.45191,0,0,1-.6,1.6,2.79194,2.79194,0,0,1-1.8.6h-.9Zm.5,3.5h.5A1.50259,1.50259,0,0,0,21.6,12v-.3a1.45645,1.45645,0,0,0-1.3-1.6H20a1.26834,1.26834,0,0,0-.6.1Z"/>
+  <path class="cls-12" d="M16.1,5.7h-.4A1.7206,1.7206,0,0,1,14,7.1a.09794.09794,0,0,0,.1.1c.6.7,1.1,1.3,1.7,2,.2.1.2.2.2.3-.1.1-.1.1-.2.1A1.20378,1.20378,0,0,1,14.5,9,12.1651,12.1651,0,0,0,13,7.3a.76385.76385,0,0,1-.2-.5c0-.4,0-.4.4-.4l1.5-.7H13.1a.21508.21508,0,0,1-.2-.2c0-.5-.1-.5.5-.5h1.4a.82222.82222,0,0,0-.6-.4h-.9c-.2,0-.3,0-.3-.3V4c0-.2,0-.3.3-.3h3.2c.2,0,.2,0,.2.2,0,.5.1.5-.5.5h-.6l.2.6h.6c.2,0,.2.1.2.2C16.6,5.7,16.6,5.7,16.1,5.7Z"/>
+  <text class="cls-13" transform="translate(28.2998 12.20015)">BU<tspan class="cls-14" x="13.8916" y="0">Y</tspan><tspan x="20.38086" y="0" xml:space="preserve"> LEAD</tspan></text>
+</svg>

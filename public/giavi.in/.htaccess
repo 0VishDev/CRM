@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^giavi\.businessworldtrade\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.giavi\.businessworldtrade\.com$
+RewriteRule ^/?$ "http\:\/\/giavi\.in" [R=301,L]
+
